@@ -1,7 +1,8 @@
-.bg-dark
+.bg-low-red
 {
-	background: #212121;
+	background: #FF5959;
 }
+
 
 .yellow
 {
@@ -20,4 +21,14 @@
 .bg-orange
 {
 	background: #FF5500;
+}
+
+.nav-item.active
+{
+	color: #fff;
+	/*color: #3c1000;*/
+}
+.border-low-red
+{
+	border: #FF5959;
 }
