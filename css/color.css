@@ -1,8 +1,11 @@
-.bg-low-red
+.bg--low-danger
 {
 	background: #FF5959;
 }
-
+.bg-info--light
+{
+	background: #d0ecff;
+}
 
 .yellow
 {
@@ -25,10 +28,20 @@
 
 .nav-item.active
 {
-	color: #fff;
+	color: #007bff;
 	/*color: #3c1000;*/
 }
 .border-low-red
 {
 	border: #FF5959;
+}
+
+.text-primary--dark
+{
+	color: #004999;
+}
+
+.text-primary--light
+{
+	color: #66afff !important;
 }

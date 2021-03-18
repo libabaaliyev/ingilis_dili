@@ -52,3 +52,79 @@
 {
 	width: 80px !important;
 }
+
+.mt-6
+{
+	margin-top: 5rem !important;
+}
+
+.rounded-10px
+{
+	border-radius: 10px !important;
+}
+
+.rounded-15px
+{
+	border-radius: 15px !important;
+}
+
+.rounded-20px
+{
+	border-radius: 20px !important;
+}
+
+.rounded-30px
+{
+	border-radius: 30px !important;
+}
+
+.rounded-50px
+{
+	border-radius: 50px !important;
+}
+.position-relative
+{
+	position: relative;
+}
+.h-min-100px
+{
+	min-height: 100px;
+}
+
+
+
+.w-80px
+{
+	width: 80px;
+}
+.w-90px
+{
+	width: 90px;
+}
+
+.w-100px
+{
+	width: 110px;
+}
+.w-120px
+{
+	width: 120px;
+}
+
+.h-80px
+{
+	height: 80px;
+}
+.h-90px
+{
+	height: 90px;
+}
+
+.h-100px
+{
+	height: 110px;
+}
+.h-120px
+{
+	height: 120px;
+}

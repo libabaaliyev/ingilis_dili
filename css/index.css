@@ -443,6 +443,24 @@ body
 {
 	height: 100px;
 }
+
+
+
+@media(min-width: 900px)
+{
+	.align-center-table--lg
+	{
+		position: absolute;
+		top: 50%;
+		left: 0;
+		transform: translate(0,-50%);
+		max-width: 220px;
+		padding-left: 20px;
+
+	}
+}
+
+
 @media(max-width: 320px)
 {
 	.nav-link
