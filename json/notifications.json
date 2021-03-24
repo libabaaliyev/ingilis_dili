@@ -1,0 +1,70 @@
+{
+	"en":
+	{
+		"confirmText"		: "Ok",
+
+		"cancel"			: "Cancel",
+
+		"confirmDelete"		: "Yes, delete it!",		
+
+		"pro-ok"			: {"message"	: "Congratulations, you've switched to PRO!", "info": "info"},
+
+		"empty-field"		: {"message" 	: "Fill in all the fields.", "info": "error"},
+
+		"error-something"	: {"message" 	: "Oops. Something went wrong", "info": "error"},
+
+		"success-share"		: {"message" 	: "Thank you for sharing", "info": "success"}		
+
+	},
+	"tr":
+	{
+		"confirmText"		: "Tamam",
+
+		"cancel"			: "İptal",
+
+		"confirmDelete"		: "Eminim, sil!",		
+
+		"pro-ok"			: {"message"	: "Tebrikler,pro-a geçtiniz!", "info": "info"},
+
+		"empty-field"		: {"message" 	: "Tüm alanları doldurun", "info": "error"},
+
+		"error-something"	: {"message" 	: "Ups. Bir şeyler ters gitti", "info": "error"},
+
+		"success-share"		: {"message" 	: "Paylaşım için teşekkürler", "info": "success"}
+
+	},
+	"az":
+	{
+		"confirmText"		: "Tamam",
+
+		"cancel"			: "İmtina",
+
+		"confirmDelete"		: "Əminəm, sil!",
+		
+		"pro-ok"			: {"message"	: "Təbriklər,pro versiyaya keçdiniz!", "info": "info"},
+
+		"empty-field"		: {"message" 	: "Bütün xanaları doldurun", "info": "error"},
+
+		"error-something"	: {"message" 	: "Ups. Bir şeylər tərs getdi", "info": "error"},
+
+		"success-share"		: {"message" 	: "Paylaşdığınız üçün təşəkkür edirik", "info": "success"}
+	},
+	"ru":
+	{
+		"confirmText"		: "ОК",
+		
+		"cancel"			: "Отмена",
+
+		"confirmDelete"		: "Да удалите!",
+
+		"pro-ok"			: {"message"	: "Поздравляем, вы перешли на PRO!", "info": "info"},
+
+		"empty-field"		: {"message" 	: "Заполните все поля.", "info": "error"},
+
+		"error-something"	: {"message" 	: "Ой. Что-то пошло не так", "info": "error"},
+
+		"success-share"		: {"message" 	: "Спасибо, что поделились", "info": "success"}
+
+	}
+
+}

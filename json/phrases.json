@@ -1,0 +1,110 @@
+[
+	{
+		
+		"tag"	: "application",
+		"img"	: "application.png",
+		"active": true
+	},
+	{
+		
+		"tag"	: "science",
+		"img"	: "science.png",
+		"active": true
+	},
+	{
+		
+		"tag"	: "order",
+		"img"	: "order.png",
+		"active": true
+	},
+	{
+		
+		"tag"	: "meeting",
+		"img"	: "meeting.png",
+		"active": true
+	},
+	{
+		
+		"tag"	: "own",
+		"img"	: "own.png",
+		"active": true
+	},
+	{
+		
+		"tag"	: "travel",
+		"img"	: "travel.png",
+		"active": true
+	},
+	{
+		
+		"tag"	: "health",
+		"img"	: "health.png",
+		"active": true
+	},
+	{
+		
+		"tag"	: "shopping",
+		"img"	: "shopping.png",
+		"active": true
+	},
+	{
+		
+		"tag"	: "eating",
+		"img"	: "eating.png",
+		"active": true
+	},
+	{
+		
+		"tag"	: "camp",
+		"img"	: "camp.png",
+		"active": true
+	},
+	{
+		
+		"tag"	: "walking",
+		"img"	: "walking.png",
+		"active": true
+	},
+	{
+		
+		"tag"	: "date",
+		"img"	: "date.png",
+		"active": true
+	},{
+		
+		"tag"	: "document",
+		"img"	: "documents.png",
+		"active": true
+	},
+	{
+		
+		"tag"	: "working",
+		"img"	: "working.png",
+		"active": true
+	},
+	{
+		
+		"tag"	: "education",
+		"img"	: "education.png",
+		"active": true
+	},
+	{
+		
+		"tag"	: "shelter",
+		"img"	: "shelter.png",
+		"active": true
+	},
+	{
+		
+		"tag"	: "compensation",
+		"img"	: "compensation.png",
+		"active": true
+	},
+	{
+		
+		"tag"	: "animals",
+		"img"	: "animals.png",
+		"active": true
+	}
+
+]

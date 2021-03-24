@@ -3,13 +3,9 @@ $(document).ready(function()
 	let starting;
 	let lang = 'az';
 
-	/*words 			= getDatas('words');
-	notifications 	= getDatas('notifications');
-	menu 			= getDatas('menu');
-	helper 			= getDatas('helper');
-	categories 		= getDatas('categories');
-	training 		= getDatas('training');
-	weekplan 		= getDatas('weekplan');*/
+	phrases 		= getDatas('phrases');
+	notifications	= getDatas('notifications');
+	translate		= getDatas('translate');
 	const appName_ 	= 
 	{
 		"az" 	: "İngilis dili dərsləri",
