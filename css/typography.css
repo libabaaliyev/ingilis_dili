@@ -3,16 +3,6 @@
 	font-size: 10px;
 }
 
-.text-20px
-{
-	font-size: 20px;
-}
-
-.text-30px
-{
-	font-size: 20px;
-}
-
 .text-12px
 {
 	font-size: 12px;
@@ -33,6 +23,11 @@
 	font-size: 18px;
 }
 
+.text-20px
+{
+	font-size: 20px;
+}
+
 .text-22px
 {
 	font-size: 22px;
@@ -41,6 +36,24 @@
 .text-24px
 {
 	font-size: 24px;
+}
+
+
+.text-26px
+{
+	font-size: 26px;
+}
+
+
+.text-28px
+{
+	font-size: 28px;
+}
+
+
+.text-30px
+{
+	font-size: 30px;
 }
 
 
@@ -184,6 +197,36 @@
 .h-max-300px
 {
 	max-height: 300px;
+}
+.h-10px
+{
+	height: 10px;
+}
+.h-20px
+{
+	height: 20px;
+}
+.h-30px
+{
+	height: 30px;
+}
+.h-40px
+{
+	height: 40px;
+}
+.h-50px
+{
+	height: 70px;
+}
+
+.h-60px
+{
+	height: 60px;
+}
+
+.h-70px
+{
+	height: 70px;
 }
 
 .h-80px
